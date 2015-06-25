@@ -18,6 +18,7 @@ body {
 
 body a:link, body a:visited {
 	color: #0000AA;
+	text-decoration: none;
 }
 
 body a:hover, body a:focus {
